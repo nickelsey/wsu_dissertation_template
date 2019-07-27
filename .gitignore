@@ -1,0 +1,16 @@
+# list of files generated during builds to ignore
+.DS_store
+*aux
+dissertation.bbl
+dissertation.out
+*fdb_latexmk
+*fls
+*lof
+*log
+*pdf
+*synctex.gz
+*blg
+*toc
+resources
+resources/*
+dissertation_drafts

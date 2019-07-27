@@ -1,0 +1,11 @@
+This set of files is known to work on a modern LaTeX distribution, like Texmaker, on a modern Linux system.
+
+The simplest way to build a PDF is to
+
+$ pdflatex dissertation.tex
+
+Enjoy!
+
+This template takes care of most of the requirements for dissertation formatting. It should work with bibTex style references by editing the diss_references.bib file (and compiling: pdflatex -> bibtex -> pdflatex -> pdflatex). 
+
+The main file that takes care of formatting is "dissertation.tex". It helps if you "Define Current Document as 'Master Document'" in Texmaker->Options, so you can compile the document from any file. The file "header.tex" can be used to define useful commands. To use the rest, simply edit the chapter files with your content.

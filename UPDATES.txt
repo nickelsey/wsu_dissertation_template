@@ -1,0 +1,3 @@
+UPDATES TO TEMPLATE
+
+01/12/2019 - Nick Elsey: Fixed formatting for table of contents and list of figures.
